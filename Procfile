@@ -1,1 +1,1 @@
-Worker: node ./lib/server/index.js
+Worker: node /lib/server/index.js
